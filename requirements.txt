@@ -2,4 +2,8 @@ streamlit
 pydub
 matplotlib
 numpy
+<<<<<<< HEAD
 ffmpeg
+=======
+ffmpeg
+>>>>>>> 2cf16dd73b7529443308b8803091be6c69c656b8
